@@ -17,3 +17,4 @@ description:	       "Powered by Jekyll and GitHub Pages"
 author:              "Alex Lettenberger"
 
 url: "https://alettenb.github.io"
+baseurl: "/projects"
