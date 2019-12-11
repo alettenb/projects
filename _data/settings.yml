@@ -3,7 +3,6 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -54,7 +53,7 @@ contact: >
 
 projects:
 - {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Microtubule Catastrophe', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
@@ -63,10 +62,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'facebook', link: 'https://facebook.com/alex.lettenberger'}
+- {icon: 'instagram', link: 'https://instagram.com/alex.lettenberger'}
+- {icon: 'github', link: 'https://github.com/alettenb'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/alex-lettenberger'}
+- {icon: 'envelope', link: 'mailto:alex.lettenberger@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
