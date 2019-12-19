@@ -12,9 +12,10 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		           "Projects by Alex"
+title:		           "Projects "
+subtitle:            " Alex"
 description:	       "Powered by Jekyll and GitHub Pages"
 author:              "Alex Lettenberger"
 
 url: "https://alettenb.github.io"
-baseurl: "/projects"
+baseurl:  "/projects"
