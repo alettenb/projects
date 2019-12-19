@@ -2,9 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'About', url: 'pages/about.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
+
 
 #-------------------------------
 # SEO Section
